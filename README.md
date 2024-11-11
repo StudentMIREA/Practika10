@@ -5,6 +5,17 @@
 
 ***
 
+#### 1. Создание базы данных.
+На PostgreSQL создаем базу данных и 4 таблицы
+
+![image](https://github.com/user-attachments/assets/74050c17-d88e-4a88-bca9-ff20b08f77ad)
+
+![image](https://github.com/user-attachments/assets/2a5ff243-bc51-43f5-9a15-142aee6fc84d)
+
+![image](https://github.com/user-attachments/assets/ad3e9b4f-8dd3-441f-a8d3-1065532c1c1f)
+
+![image](https://github.com/user-attachments/assets/af4dc8c2-e8d2-4b6c-9aad-f8db9701ba87)
+
 #### 1. Создание сервера.
 На языке go пишем программу которая будет обрабатывать запросы.
 
