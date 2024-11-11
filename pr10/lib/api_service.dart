@@ -249,7 +249,7 @@ class ApiService {
   }
 
   Future<void> updateUser(Person item) async {
-    final link = 'http://${ip}:8080/users/$item.id';
+    final link = 'http://${ip}:8080/users/${item.id}';
     try {
       final response = await _dio.put(link, data: {
         'ID': item.id,
