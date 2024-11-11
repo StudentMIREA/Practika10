@@ -12,7 +12,7 @@
 
 После этого в командной строке запускаем программу
 
-![Снимок экрана 2024-10-28 192455](https://github.com/user-attachments/assets/b4afac2e-953c-4861-8eec-5e2674c28c57)
+![image](https://github.com/user-attachments/assets/ab266bb7-cab8-44a2-8f5d-d58a4e3bdbc0)
 
 ![Снимок экрана 2024-10-29 091627](https://github.com/user-attachments/assets/64f36373-c78d-4a1a-8112-29b000ba3e75)
 
