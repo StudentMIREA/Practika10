@@ -8,7 +8,7 @@
 #### 1. Создание сервера.
 На языке go пишем программу которая будет обрабатывать запросы.
 
-![Снимок экрана 2024-10-28 192357](https://github.com/user-attachments/assets/de9e8b97-4466-49ab-bd19-c88ad31f2286)
+![image](https://github.com/user-attachments/assets/9d5fa257-9dec-499c-bf54-c128eef93414)
 
 После этого в командной строке запускаем программу
 
