@@ -25,15 +25,13 @@
 
 ![image](https://github.com/user-attachments/assets/ab266bb7-cab8-44a2-8f5d-d58a4e3bdbc0)
 
-![Снимок экрана 2024-10-29 091627](https://github.com/user-attachments/assets/64f36373-c78d-4a1a-8112-29b000ba3e75)
+![image](https://github.com/user-attachments/assets/2b129819-bca7-48cf-8c3d-e81582cbf92f)
 
-![Снимок экрана 2024-11-04 134614](https://github.com/user-attachments/assets/d347a46f-3938-4d14-be52-9e47092ad9b1)
+![image](https://github.com/user-attachments/assets/8311d230-e4ea-4add-a46a-c106ac010da7)
 
-![Снимок экрана 2024-11-04 134714](https://github.com/user-attachments/assets/bcfe7244-d33b-475f-9e6b-a677e6b06844)
+![image](https://github.com/user-attachments/assets/c52b213b-0353-48f0-b34b-d04874f0610a)
 
-![Снимок экрана 2024-11-04 134756](https://github.com/user-attachments/assets/a3e9e9e0-4325-43a0-af72-c64d59736943)
-
-![Снимок экрана 2024-11-04 134821](https://github.com/user-attachments/assets/95bb2d8a-010e-4dfa-a329-fa3f26df819a)
+![image](https://github.com/user-attachments/assets/526a1b4b-9417-4957-8e17-1340a18bbc2a)
 
 #### 2. Создание главной страницы с товарами. 
 На главной странице находятся карточки товаров. Внизу находится панель навигации. При нажатии на карточку товара осуществляется переход на страницу товара. 
